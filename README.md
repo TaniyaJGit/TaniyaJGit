@@ -18,6 +18,6 @@ When I'm not coding, I'm usually painting, playing with my bird, or experimentin
 - UI/UX design
 
 ## 📫 Connect with me
-- Portfolio: https://taniyajportfolio.netlify.app/
+- Portfolio: https://taniyajportfolio.pages.dev
 - GitHub: https://github.com/TaniyaJGit
 - LinkedIn: https://www.linkedin.com/in/taniya-j-b42b3b278/
