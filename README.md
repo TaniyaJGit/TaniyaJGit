@@ -1,4 +1,4 @@
-# Hi, I'm Taniya 👋 Welcome to my Github page 👀
+# Hi, I'm Taniya 👀
 
 I'm a Computer Science student studying my Bachelor of Applied Science at McMaster University, currently going into my second year. I'm interested in web development, frontend design, AI, and creative technology, especially where coding and the arts overlap.
 
